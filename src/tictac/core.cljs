@@ -142,4 +142,4 @@
   [board @game-state])
 
 (defcard-rg game
-  [game]))
+  [game])
